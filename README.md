@@ -1,4 +1,5 @@
 **Car Sales Performance Dashboard**
+
 Power BI | Data Analysis | Business Insights
 📌 Overview
 In this project, I built an interactive Car Sales Dashboard using Power BI to understand how a car dealership is performing across sales, pricing, and volume.
